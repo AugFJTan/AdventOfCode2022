@@ -1,6 +1,6 @@
 # My Advent of Code 2022 Solutions
 
-**Programming Language:** Rust
+**Programming Language:** Rust and Python 3
 
 **Objective:** Learn Rust, all the while having fun!
 
